@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Hamberger/static/css/main.5c74dcc5.css",
+    "main.js": "/Hamberger/static/js/main.e1da1008.js",
+    "index.html": "/Hamberger/index.html",
+    "main.5c74dcc5.css.map": "/Hamberger/static/css/main.5c74dcc5.css.map",
+    "main.e1da1008.js.map": "/Hamberger/static/js/main.e1da1008.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c74dcc5.css",
+    "static/js/main.e1da1008.js"
+  ]
+}
